@@ -4,14 +4,11 @@
 A two-view depth estimator using triangulation and frame rectification is a computer vision technique that estimates the depth of objects in a scene using two camera views. It involves two key steps: triangulation and frame rectification. Triangulation calculates the 3D position of scene points by analyzing the corresponding points in the two camera views. Frame rectification aligns the two camera images to eliminate any geometric distortions and ensures accurate depth estimation. By combining these techniques, the depth estimator can provide reliable depth information for various applications such as 3D reconstruction, augmented reality, and object detection.
 
 # Contents
-- Getting Started
 - Literature
 - Dataset used
 - Methodology
 - Results and Analysis
 - References
-
-# Getting Started
 
 # Literature
 
